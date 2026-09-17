@@ -23,6 +23,7 @@ class Exemplar {
 class Usuario {
   - matricula : String
   - nome : String
+  -peso
 }
 
 class Emprestimo {
